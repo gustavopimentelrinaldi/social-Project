@@ -57,8 +57,9 @@ body {
   color:#fff;
 }
 
-.custom-menu .navbar-brand:hover, .menu-secondary .navbar-brand:hover {
-  color:#fff
+.custom-menu .navbar-brand:hover, .custom-menu .navbar-brand:active,.custom-menu .navbar-brand:focus,
+ .menu-secondary .navbar-brand:hover, .menu-secondary .navbar-brand:active, .menu-secondary .navbar-brand:focus {
+  color:#fff;
 }
 
 .custom-menu .navbar-brand span, .menu-secondary .navbar-brand span {
